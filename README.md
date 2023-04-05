@@ -1,6 +1,8 @@
 # festart.nvim
 
-`festart.nvim` is a pre-configured neovim setup designed specifically for frontend development, aimed at helping you quickly get started on your neovim frontend development journey. This project is a single-file setup.
+`festart.nvim` is a pre-configured neovim setup designed specifically for frontend development, aimed at helping you quickly get started on your neovim frontend development journey. 
+
+This project is a single-file setup.
 
 The inspiration for `festart.nvim`, as well as many of its configurations, were taken from the [kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) project and the configurations provided by [craftzdog](https://github.com/craftzdog/dotfiles-public). I am very grateful to them, as I have learned a lot from them.
 
